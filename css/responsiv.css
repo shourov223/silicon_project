@@ -1,0 +1,249 @@
+@media (max-width: 575px) {
+
+    /* navbar */
+    .buttons_grup {
+        margin-top: 20px;
+    }
+    /* banner */
+    .top_info h1 {
+        font-size: 25px;
+        padding-top: 67px;
+    }
+    .top_info p {
+        font-size: 12px;
+        padding-top: 10px;
+    }
+    .banner_bottom {
+        padding-top: 20px;
+        flex-wrap: wrap;
+        gap: 26px;
+        justify-content: center;
+    }
+    .banner_image {
+        height: 480px;
+    }
+    .top_info .primary {
+        margin-top: 25px;
+    }
+    /* award */
+    #award {
+        padding-top: 0;
+    }
+    .award_heading h2 {
+        font-size: 26px;
+        padding-bottom: 10px;
+    }
+    .award_heading p {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+    .award_btn {
+        margin-bottom: 30px;
+    }
+    .award_heading h3 {
+        padding-bottom: 12px;
+    }
+    /* service */
+    .service_heading h2 {
+        font-size: 27px;
+        padding-bottom: 20px;
+    }
+    .peragraph {
+        flex-wrap: wrap;
+        padding-bottom: 20px;
+    }
+    .peragraph p {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .service_item {
+        padding: 0 20px 20px;
+    }
+    .service_item h2 {
+        font-size: 22px;
+    }
+    /* peyment */
+    #peyment {
+        height: 400px;
+    }
+    .image_overley {
+        height: 400px;
+    }
+    .image_overley {
+        padding-top: 0;
+        padding-left: 0;
+    }
+    .carousel_item h2 {
+        font-size: 20px;
+    }
+    .carousel_item {
+        transform: scale(0.7);
+    }
+    .caro_prev_btn {
+        top: 70px;
+        left: 79px;
+    }
+    .caro_next_btn {
+        top: 70px;
+        left: 130px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* navbar */
+    .buttons_grup {
+        margin-top: 20px;
+    }
+    /* banner */
+    .top_info h1 {
+        font-size: 25px;
+        padding-top: 67px;
+    }
+    .top_info p {
+        font-size: 12px;
+        padding-top: 10px;
+    }
+    .banner_bottom {
+        padding-top: 20px;
+        flex-wrap: wrap;
+        gap: 26px;
+        justify-content: center;
+    }
+    .banner_image {
+        height: 450px;
+    }
+    .top_info .primary {
+        margin-top: 25px;
+    }
+    /* award */
+    #award {
+        padding-top: 0;
+    }
+    .award_heading h2 {
+        font-size: 26px;
+        padding-bottom: 10px;
+    }
+    .award_heading p {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+    .award_btn {
+        margin-bottom: 30px;
+    }
+    .award_heading h3 {
+        padding-bottom: 12px;
+    }
+    /* service */
+    .service_heading h2 {
+        font-size: 27px;
+        padding-bottom: 20px;
+    }
+    .peragraph {
+        flex-wrap: wrap;
+        padding-bottom: 20px;
+    }
+    .peragraph p {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .service_item {
+        padding: 0 20px 20px;
+    }
+    .service_item h2 {
+        font-size: 22px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* navbar */
+    .buttons_grup {
+        margin-top: 20px;
+    }
+    /* banner */
+    .top_info h1 {
+        font-size: 25px;
+        padding-top: 67px;
+    }
+    .top_info p {
+        font-size: 12px;
+        padding-top: 10px;
+    }
+    .banner_bottom {
+        padding-top: 20px;
+        flex-wrap: wrap;
+        gap: 26px;
+        justify-content: center;
+    }
+    .banner_image {
+        height: 400px;
+    }
+    .top_info .primary {
+        margin-top: 25px;
+    }
+    /* award */
+    #award {
+        padding-top: 0;
+    }
+    .award_heading h2 {
+        font-size: 26px;
+        padding-bottom: 10px;
+    }
+    .award_heading p {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+    .award_btn {
+        margin-bottom: 30px;
+    }
+    .award_heading h3 {
+        padding-bottom: 12px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* banner */
+    .top_info h1 {
+        font-size: 25px;
+        padding-top: 67px;
+    }
+    .top_info p {
+        font-size: 12px;
+        padding-top: 10px;
+    }
+    .banner_bottom {
+        padding-top: 20px;
+        flex-wrap: wrap;
+        gap: 26px;
+        justify-content: center;
+    }
+    .banner_image {
+        height: 450px;
+    }
+    .top_info .primary {
+        margin-top: 25px;
+    }
+    /* award */
+    #award {
+        padding-top: 0;
+    }
+    .award_heading h2 {
+        font-size: 26px;
+        padding-bottom: 10px;
+    }
+    .award_heading p {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+    .award_btn {
+        margin-bottom: 30px;
+    }
+    .award_heading h3 {
+        padding-bottom: 12px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+@media (min-width: 1400px) {}
